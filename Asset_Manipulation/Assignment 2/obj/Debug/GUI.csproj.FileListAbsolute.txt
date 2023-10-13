@@ -1,0 +1,11 @@
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\joshc\OneDrive - University of Worcester\Assignment 2\Assignment 2\obj\Debug\Assignment_2.ImageView.resources
